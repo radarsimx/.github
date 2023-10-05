@@ -3,9 +3,9 @@
    inkscape:export-ydpi="104.0495"
    inkscape:export-xdpi="104.0495"
    inkscape:export-filename="C:\Users\zjx8rj\OneDrive\radarsimpy\docs\radarsimpy.png"
-   width="1075.1406mm"
-   height="709.53149mm"
-   viewBox="0 0 1075.1406 709.5315"
+   width="993.46399mm"
+   height="702.59058mm"
+   viewBox="0 0 993.46397 702.59058"
    version="1.1"
    id="svg8"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
@@ -26,18 +26,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="2987.1429"
-     inkscape:cy="2108.5714"
+     inkscape:zoom="0.175"
+     inkscape:cx="2862.8571"
+     inkscape:cy="571.42857"
      inkscape:document-units="mm"
      inkscape:current-layer="g402"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="3840"
-     inkscape:window-height="2054"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
+     inkscape:window-width="2253"
+     inkscape:window-height="1538"
+     inkscape:window-x="1536"
+     inkscape:window-y="341"
+     inkscape:window-maximized="0"
      inkscape:snap-bbox="false"
      inkscape:snap-bbox-midpoints="false"
      inkscape:object-paths="true"
@@ -67,10 +67,21 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-504.38463,-17.369429)">
+     transform="translate(-504.38464,-24.174501)">
     <g
        id="g402"
        transform="translate(3.050145,-5.3453742)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:151.694px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#4caf50;fill-opacity:0.301961;stroke-width:0.264582"
+         x="1208.0972"
+         y="730.59351"
+         id="text2-3"><tspan
+           sodipodi:role="line"
+           id="tspan1-0"
+           style="font-size:151.694px;fill:#4caf50;fill-opacity:0.301961;stroke-width:0.264582"
+           x="1208.0972"
+           y="730.59351">Lib</tspan></text>
       <path
          d="m 1272.567,475.60718 q -13.1973,0 -20.1753,9.86011 -6.9779,9.86011 -6.9779,27.00153 0,17.29312 6.3712,26.84984 6.5228,9.40503 20.782,9.40503 6.6746,0 13.1974,-1.51694 6.6746,-1.51694 14.4109,-4.24744 v 19.26514 q -7.1296,2.88219 -14.1075,4.24743 -6.9779,1.36525 -15.6245,1.36525 -16.6863,0 -27.6083,-6.82623 -10.7703,-6.97792 -15.9279,-19.41683 -5.1576,-12.5906 -5.1576,-29.27694 0,-16.38296 5.9161,-28.97356 5.9161,-12.5906 17.1414,-19.72022 11.3771,-7.12962 27.76,-7.12962 8.0398,0 16.0796,2.12372 8.1915,1.97202 15.6245,5.46098 l -7.433,18.65837 q -6.0678,-2.88219 -12.2872,-5.00591 -6.0678,-2.12371 -11.9839,-2.12371 z m 94.9603,6.37115 q 13.9559,0 22.6025,10.92196 8.6465,10.77028 8.6465,31.85574 0,21.08547 -8.9499,32.15913 -8.95,10.92197 -22.9058,10.92197 -8.95,0 -14.2593,-3.18557 -5.3093,-3.33727 -8.6465,-7.43301 h -1.2136 q 1.2136,6.37115 1.2136,12.13552 v 33.37268 h -22.6024 V 483.49527 h 18.3549 l 3.1856,10.77027 h 1.0619 q 3.3372,-5.0059 8.9499,-8.64656 5.6127,-3.64065 14.5626,-3.64065 z m -7.2813,18.05158 q -8.7982,0 -12.4389,5.46099 -3.4889,5.46098 -3.7923,16.68634 v 2.4271 q 0,11.98383 3.4889,18.50667 3.6407,6.37115 13.0457,6.37115 7.7364,0 11.3771,-6.37115 3.7923,-6.52284 3.7923,-18.65836 0,-24.42274 -15.4728,-24.42274 z m 103.3036,-18.05158 q 13.9558,0 22.6024,10.92196 8.6465,10.77028 8.6465,31.85574 0,21.08547 -8.9499,32.15913 -8.95,10.92197 -22.9058,10.92197 -8.95,0 -14.2593,-3.18557 -5.3092,-3.33727 -8.6465,-7.43301 h -1.2136 q 1.2136,6.37115 1.2136,12.13552 v 33.37268 h -22.6024 V 483.49527 h 18.355 l 3.1855,10.77027 h 1.0619 q 3.3373,-5.0059 8.9499,-8.64656 5.6127,-3.64065 14.5627,-3.64065 z m -7.2814,18.05158 q -8.7982,0 -12.4389,5.46099 -3.4889,5.46098 -3.7923,16.68634 v 2.4271 q 0,11.98383 3.4889,18.50667 3.6407,6.37115 13.0457,6.37115 7.7364,0 11.3771,-6.37115 3.7923,-6.52284 3.7923,-18.65836 0,-24.42274 -15.4728,-24.42274 z"
          id="text1"
@@ -130,7 +141,7 @@
          aria-label="Dash"
          id="text386-3-4"
          style="font-weight:bold;font-size:152.047px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';opacity:1;fill:#4caf50;fill-opacity:0.3;stroke:none;stroke-width:3.80001;stroke-linecap:round"
-         transform="translate(-11.89,45.357153)">
+         transform="translate(-10.950623,-112.59779)">
         <path
            d="m 1323.6514,37.568261 q 0,27.520507 -15.6609,41.50883 -15.5088,13.836277 -43.6375,13.836277 h -30.7134 V -15.648188 h 34.0585 q 17.0292,0 29.4971,6.0818802 12.6199,6.0818799 19.462,17.9415457 6.9942,11.7076191 6.9942,29.1930231 z m -23.8714,0.608188 q 0,-18.093592 -7.9064,-26.456177 -7.9065,-8.514632 -22.9591,-8.514632 h -12.3159 v 70.701854 h 9.8831 q 33.2983,0 33.2983,-35.731045 z"
            id="path1100"
@@ -152,7 +163,7 @@
          aria-label="Notebook"
          id="text386-3-4-2"
          style="font-weight:bold;font-size:152.047px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';opacity:1;fill:#4caf50;fill-opacity:0.3;stroke:none;stroke-width:3.80001;stroke-linecap:round"
-         transform="translate(-2.5541,-4.4601189)">
+         transform="translate(-2.5541,140.39996)">
         <path
            d="m 1320.5495,735.18597 h -29.193 l -47.2867,-82.10537 h -0.6081 q 0.3041,7.75439 0.6081,15.50879 0.4562,7.7544 0.7603,15.50879 v 51.08779 h -20.5264 V 626.62442 h 29.041 l 47.1346,81.34514 h 0.4561 q -0.152,-7.60235 -0.4561,-15.05265 -0.3041,-7.4503 -0.6082,-14.90061 v -51.39188 h 20.6784 z"
            id="path1117"
@@ -162,6 +173,17 @@
            id="path1125"
            style="fill:#4caf50;fill-opacity:0.3;stroke:none" />
       </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:151.694px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#4caf50;fill-opacity:0.301961;stroke-width:0.264582"
+         x="1208.0972"
+         y="137.82939"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-size:151.694px;fill:#4caf50;fill-opacity:0.301961;stroke-width:0.264582"
+           x="1208.0972"
+           y="137.82939">M</tspan></text>
     </g>
   </g>
 </svg>
