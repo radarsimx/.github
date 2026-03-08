@@ -3,13 +3,13 @@
    inkscape:export-ydpi="104.0495"
    inkscape:export-xdpi="104.0495"
    inkscape:export-filename="C:\Users\zjx8rj\OneDrive\radarsimpy\docs\radarsimpy.png"
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="361.4458mm"
+   height="361.4458mm"
+   viewBox="0 0 361.4458 361.4458"
    version="1.1"
    id="svg8"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   sodipodi:docname="radarsimpy.svg"
+   sodipodi:docname="radarsimpy_nobg.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="98.571429"
-     inkscape:cy="934.28571"
+     inkscape:cx="-185.71429"
+     inkscape:cy="645.71429"
      inkscape:document-units="mm"
-     inkscape:current-layer="text365"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="3840"
@@ -67,15 +67,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-22.608341,-57.680367)">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.99325"
-       id="rect304"
-       width="512"
-       height="512"
-       x="22.608341"
-       y="57.680367"
-       rx="32" />
+     transform="translate(-97.885445,-132.95747)">
     <g
        id="g1693"
        transform="matrix(3.3032258,0,0,3.3032258,-93.844154,-174.62296)">
@@ -239,11 +231,11 @@
          style="font-weight:bold;font-size:92.7778px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#4d4d4d;stroke:#4caf50;stroke-width:4.99999;stroke-linecap:round">
         <path
            d="m 369.92613,392.64557 q 12.80334,0 18.64834,5.56666 5.93778,5.47389 5.93778,15.12279 0,5.75222 -2.41222,10.855 -2.41223,5.01 -8.07167,8.07167 -5.56667,3.06166 -15.21556,3.06166 h -6.03056 v 23.56557 h -14.00945 v -66.24335 z m -0.74222,11.50444 h -6.40167 v 19.6689 h 4.63889 q 5.93778,0 9.37056,-2.31945 3.52556,-2.41222 3.52556,-7.70056 0,-9.64889 -11.13334,-9.64889 z"
-           style="stroke:none;stroke-width:5;fill:#2f86cf;fill-opacity:1"
+           style="fill:#2f86cf;fill-opacity:1;stroke:none;stroke-width:5"
            id="path306" />
         <path
            d="m 398.68727,408.23224 h 15.12279 l 9.55611,28.48278 q 0.74222,2.04111 1.11333,4.26778 0.37111,2.13389 0.55667,4.54611 h 0.27833 q 0.27834,-2.41222 0.74223,-4.54611 0.55666,-2.22667 1.20611,-4.26778 l 9.37056,-28.48278 h 14.84444 l -21.43167,57.15112 q -2.87611,7.88612 -8.44278,11.78278 -5.47389,3.98945 -12.71056,3.98945 -2.31944,0 -4.08222,-0.27834 -1.67,-0.18555 -2.96889,-0.46388 v -10.94778 q 1.02056,0.18555 2.41222,0.37111 1.48445,0.18555 3.06167,0.18555 4.36056,0 6.86556,-2.69055 2.59778,-2.59778 3.80389,-6.30889 l 0.835,-2.50501 z"
-           style="stroke:none;stroke-width:5;fill:#f8d940;fill-opacity:1"
+           style="fill:#f8d940;fill-opacity:1;stroke:none;stroke-width:5"
            id="path308" />
       </g>
     </g>
