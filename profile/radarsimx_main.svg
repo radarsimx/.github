@@ -3,9 +3,9 @@
    inkscape:export-ydpi="104.0495"
    inkscape:export-xdpi="104.0495"
    inkscape:export-filename="C:\Users\zjx8rj\OneDrive\radarsimpy\docs\radarsimpy.png"
-   width="977.11591mm"
-   height="688.27417mm"
-   viewBox="0 0 977.11588 688.27417"
+   width="1008.4404mm"
+   height="724.20239mm"
+   viewBox="0 0 1008.4404 724.20239"
    version="1.1"
    id="svg8"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
@@ -27,17 +27,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="2497.1429"
-     inkscape:cy="1227.1429"
+     inkscape:cx="2557.1429"
+     inkscape:cy="1297.1429"
      inkscape:document-units="mm"
      inkscape:current-layer="g402"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1927"
-     inkscape:window-height="1399"
-     inkscape:window-x="918"
-     inkscape:window-y="328"
-     inkscape:window-maximized="0"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
      inkscape:snap-bbox="false"
      inkscape:snap-bbox-midpoints="false"
      inkscape:object-paths="true"
@@ -67,7 +67,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-504.38463,-26.865338)">
+     transform="translate(-488.72236,-8.9012269)">
     <g
        id="g402"
        transform="translate(3.050145,-5.3453742)">
@@ -147,7 +147,7 @@
          style="font-size:151.694px;line-height:1.25;font-family:'IBM Plex Mono SemiBold';-inkscape-font-specification:'IBM Plex Mono SemiBold, ';fill:#b30094;fill-opacity:1;stroke-width:0.264583"
          id="path1755" />
       <path
-         style="font-weight:bold;font-size:74.7216px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#b30094;stroke-width:0.5;stroke-linecap:round;fill-opacity:1"
+         style="font-weight:bold;font-size:74.7216px;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#b30094;fill-opacity:1;stroke-width:0.5;stroke-linecap:round"
          d="M 1307.914,106.78223 V 90.941246 h -15.0191 v -7.845768 h 15.0191 V 67.179776 h 8.1446 v 15.915702 h 15.0938 v 7.845768 h -15.0938 v 15.840984 z m 44.0857,0 V 90.941246 h -15.019 v -7.845768 h 15.019 V 67.179776 h 8.1447 v 15.915702 h 15.0937 v 7.845768 h -15.0937 v 15.840984 z"
          id="text1"
          aria-label="++" />
