@@ -9,7 +9,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   sodipodi:docname="radarsimcpp.svg"
+   sodipodi:docname="radarsimapp.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -18,7 +18,19 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs2" />
+     id="defs2">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask1">
+      <rect
+         style="opacity:0.323843;fill:#ad2a14;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2"
+         width="139.6908"
+         height="57.291977"
+         x="356.06741"
+         y="382.04099" />
+    </mask>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,11 +38,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="745"
-     inkscape:cy="1220"
+     inkscape:zoom="0.5"
+     inkscape:cx="-402"
+     inkscape:cy="632"
      inkscape:document-units="mm"
-     inkscape:current-layer="g2485"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="3840"
@@ -222,39 +234,37 @@
          r="52.711033" />
     </g>
     <g
-       id="g2485"
-       transform="translate(-3.5381187,-0.70565626)">
-      <rect
-         style="fill:#ffffff;fill-opacity:0.881773;stroke-width:1.30316"
-         id="rect253"
-         width="195.28922"
-         height="181.17189"
-         x="267.58014"
-         y="313.93704"
-         rx="10"
-         ry="10" />
+       id="g3"
+       transform="matrix(1.427258,0,0,1.427258,-196.25294,-211.23774)"
+       style="stroke-width:0.700644">
       <g
-         aria-label="C"
-         id="text362"
-         style="font-weight:500;font-size:37.5153px;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono Medium';fill:#1f579b;fill-opacity:1;stroke:none;stroke-width:0.486908;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(5.1406019,0,0,5.1406019,-517.55793,-466.99952)" />
-      <g
-         id="g1"
-         transform="matrix(0.94439663,0,0,0.94439663,20.807085,22.492829)"
-         style="stroke-width:1.05888">
-        <path
-           d="m 340.40393,474.1423 q -25.64924,0 -38.18455,-18.12803 -12.34248,-18.12802 -12.34248,-51.4913 0,-33.36328 12.34248,-51.49125 12.53531,-18.12802 38.18455,-18.12802 9.83541,0 16.97087,2.69989 7.32834,2.50707 12.53536,7.13552 5.20696,4.43557 8.67826,10.60681 3.66422,5.97836 5.97842,12.92105 l -19.478,6.55695 q -1.5428,-4.62845 -3.4713,-8.67832 -1.92849,-4.04987 -4.82126,-6.94264 -2.89277,-2.89277 -6.94269,-4.62844 -3.857,-1.73567 -9.64254,-1.73567 -14.27098,0 -20.82792,10.9925 -6.55694,10.79969 -6.55694,29.31341 v 22.75642 q 0,18.51372 6.55694,29.50628 6.55694,10.79964 20.82792,10.79964 5.78554,0 9.64254,-1.73568 4.04992,-1.73562 6.94269,-4.62839 2.89277,-2.89277 4.82126,-6.94264 1.9285,-4.04987 3.4713,-8.67831 l 19.478,6.55694 q -2.3142,6.94264 -5.97842,13.11388 -3.4713,5.97837 -8.67826,10.60681 -5.20702,4.43557 -12.53536,7.13552 -7.13546,2.50707 -16.97087,2.50707 z"
-           style="font-weight:500;font-size:37.5153px;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono Medium';fill:#1f579b;fill-opacity:1;stroke:none;stroke-width:2.65037;stroke-dasharray:none;stroke-opacity:1"
-           id="path1199" />
-        <path
-           d="m 353.70325,431.03367 v -21.7357 h -20.7997 v -7.07187 h 20.7997 v -21.7357 h 7.90388 v 21.7357 h 20.7997 v 7.07187 h -20.7997 v 21.7357 z"
-           style="font-size:20.2308px;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';fill:#ffffff;fill-opacity:1;stroke:#1f579b;stroke-width:3.17663;stroke-dasharray:none;stroke-opacity:1"
-           id="path1196" />
-        <path
-           d="m 409.22319,431.03367 v -21.7357 h -20.7997 v -7.07187 h 20.7997 v -21.7357 h 7.90388 v 21.7357 h 20.79969 v 7.07187 h -20.79969 v 21.7357 z"
-           style="font-size:20.2308px;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';fill:#ffffff;fill-opacity:1;stroke:#1f579b;stroke-width:3.17663;stroke-dasharray:none;stroke-opacity:1"
-           id="path1193" />
+         id="g2485"
+         transform="translate(-3.5381187,-0.70565626)"
+         style="stroke-width:0.700644">
+        <rect
+           style="fill:#ffffff;fill-opacity:0.881773;stroke-width:0.913051"
+           id="rect253"
+           width="136.82825"
+           height="126.93703"
+           x="326.04111"
+           y="368.17188"
+           rx="7.0064411"
+           ry="7.0064411" />
       </g>
+    </g>
+    <g
+       id="g2"
+       transform="translate(-1.5570745,6.4051369e-5)">
+      <path
+         style="font-weight:bold;font-size:131.829px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono Bold';text-align:center;letter-spacing:-0.0714078px;text-anchor:middle;fill:#4e3a72;fill-opacity:1;stroke-width:3;stroke-linecap:round"
+         d="m 279.59067,451.09033 25.9635,-94.54618 h 24.38197 l 26.0953,94.54618 h -19.11019 l -15.02457,-62.37146 q -0.65897,-3.03287 -1.44974,-5.93387 -0.65897,-2.901 -1.31795,-5.802 -0.65896,-3.03285 -1.31794,-5.93385 -0.65897,2.901 -1.31794,5.93385 -0.65897,2.901 -1.31795,5.802 -0.65897,2.901 -1.44974,5.93387 l -15.55174,62.37146 z m 20.82352,-23.33985 3.95384,-15.82363 h 27.14965 l 1.84511,15.82363 z"
+         id="text1"
+         aria-label="A" />
+      <path
+         d="m 354.9731,449.59033 v -70.68885 h 23.46395 q 12.17749,0 18.11773,5.74223 5.94024,5.64323 5.94024,16.23666 0,7.02928 -2.57411,12.37549 -2.4751,5.24722 -8.01932,8.21734 -5.44522,2.97012 -14.35558,2.97012 h -8.71235 v 25.14701 z m 21.08785,-37.32451 q 4.15817,0 6.83128,-1.18804 2.6731,-1.28706 3.96016,-3.66315 1.38605,-2.4751 1.38605,-5.94024 0,-5.24721 -2.4751,-7.82132 -2.4751,-2.5741 -7.82131,-2.5741 h -9.10837 v 21.18685 z m 21.81388,37.32451 v -70.68885 h 23.46395 q 12.17749,0 18.11773,5.74223 5.94024,5.64323 5.94024,16.23666 0,7.02928 -2.5741,12.37549 -2.4751,5.24722 -8.01933,8.21734 -5.44522,2.97012 -14.35558,2.97012 h -8.71235 v 25.14701 z m 21.08785,-37.32451 q 4.15817,0 6.83128,-1.18804 2.67311,-1.28706 3.96016,-3.66315 1.38605,-2.4751 1.38605,-5.94024 0,-5.24721 -2.4751,-7.82132 -2.4751,-2.5741 -7.82131,-2.5741 h -9.10837 v 21.18685 z"
+         id="text2"
+         style="font-weight:bold;font-size:99.004px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono Bold';text-align:center;letter-spacing:-16.5007px;text-anchor:middle;opacity:1;fill:none;stroke:#4e3a72;stroke-width:3;stroke-linecap:round;stroke-opacity:1"
+         aria-label="PP" />
     </g>
   </g>
 </svg>
